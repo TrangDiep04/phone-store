@@ -12,6 +12,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Hệ điều hành
+# Mac và Windows
 .DS_Store
 Thumbs.db
